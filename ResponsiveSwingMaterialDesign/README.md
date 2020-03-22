@@ -16,7 +16,7 @@
 ### Sign Up Form developed using this framework
 https://www.youtube.com/watch?v=ZijJrgkgyUA&feature=youtu.be
 
-[![IMAGE ALT TEXT HERE](https://github.com/GustavoRolimSantos/Responsive-Swing-Material-Design/blob/master/images/Form.png)](https://www.youtube.com/watch?v=ZijJrgkgyUA&feature=youtu.be)
+[![SignUp Form](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Form.png)](https://www.youtube.com/watch?v=ZijJrgkgyUA&feature=youtu.be)
 
 ### Responsive Layout (Default 1280x800)
 ```java
@@ -165,12 +165,12 @@ rl.add(new DateTimeField("Data e Hora", rl).getComponent(), 6, 1); // Using 6 co
 ![Date and Time Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_11.png)
 
 ### Components (Dracula theme)
-![Date Picker](https://github.com/GustavoRolimSantos/Responsive-Swing-Material-Design/blob/master/images/Darkmode.png)
+![Components Dracula theme](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Darkmode.png)
 
 ### Date Picker
 ![Date Picker](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_9.png)
 
 ### Date Picker (Dracula theme)
-![Date Picker](https://github.com/GustavoRolimSantos/Responsive-Swing-Material-Design/blob/master/images/DatePicker%20DarkMode.png)
+![Date Picker](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/DatePicker%20DarkMode.png)
 
 > COPYRIGHT BY GUSTAVO ROLIM DOS SANTOS 2020.
