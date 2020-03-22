@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=ZijJrgkgyUA&feature=youtu.be
 // Create a responsive layout using ResponsiveLayout(frameWidth, frameHeight, columns, rows, jFrame)
 ResponsiveLayout rl = new ResponsiveLayout(12, 12, jFrame);
 ```
-![Responsive Layout](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_1.png)
+![Responsive Layout](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_1.png)
 
 ```java
 public static void main(String[] args) {
@@ -114,31 +114,31 @@ inputField.setRules(new Callback() {
 // Add InputField component into ResponsiveLayout using rl.add(component, columns, rows)
 rl.add(new InputField("Email de contato", rl).email().getComponent(), 4, 1); // Using 4 columns and 1 row
 ```
-![E-mail Field](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_4.png)
+![E-mail Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_4.png)
 
 ### Phone Field
 ```java
 rl.add(new InputField("Telefone de contato", rl).phone().getComponent(), 4, 1); // Using 4 columns and 1 row
 ```
-![Phone Field](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_5.png)
+![Phone Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_5.png)
 
 ### Money Field (price)
 ```java
 rl.add(new InputField("Valor em reais", rl).money().getComponent(), 4, 1); // Using 4 columns and 1 row
 ```
-![Value Field](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_6.png)
+![Value Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_6.png)
 
 ### Password Field
 ```java
 rl.add(new PasswordField("Senha", rl).getComponent(), 6, 1); // Using 6 columns and 1 row
 ```
-![Password Field](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_7.png)
+![Password Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_7.png)
 
 ### Text Area
 ```java
 rl.add(new TextArea("Área de Texto", rl).getComponent(), 6, 4);  // Using 6 columns and 4 row
 ```
-![Text Area](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_8.png)
+![Text Area](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_8.png)
 
 ### Date Field
 ```java
@@ -156,19 +156,19 @@ getDate();
 
 rl.add(dateField, 6, 1);
 ```
-![Date Field](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_10.png)
+![Date Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_10.png)
 
 ### Date and Time Field
 ```java
 rl.add(new DateTimeField("Data e Hora", rl).getComponent(), 6, 1); // Using 6 columns and 1 row
 ```
-![Date and Time Field](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_11.png)
+![Date and Time Field](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_11.png)
 
 ### Components (Dracula theme)
 ![Date Picker](https://github.com/GustavoRolimSantos/Responsive-Swing-Material-Design/blob/master/images/Darkmode.png)
 
 ### Date Picker
-![Date Picker](https://github.com/GustavoRolimSantos/RSMDF/blob/master/images/Screenshot_9.png)
+![Date Picker](https://github.com/GustavoRolimSantos/Java/blob/master/ResponsiveSwingMaterialDesign/images/Screenshot_9.png)
 
 ### Date Picker (Dracula theme)
 ![Date Picker](https://github.com/GustavoRolimSantos/Responsive-Swing-Material-Design/blob/master/images/DatePicker%20DarkMode.png)
