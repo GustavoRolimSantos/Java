@@ -2,7 +2,7 @@
 
 Google Dinosaur Auto-learning using Neural Networks
 
-[![Dinosaur](https://github.com/GustavoRolimSantos/Chrome-Dino/blob/master/Treinado.gif)](https://www.youtube.com/watch?v=szKEPME56y8&feature=youtu.be)
+[![Dinosaur](https://github.com/GustavoRolimSantos/Java/blob/master/Chrome-Dino-Game-AI/trained.gif)](https://www.youtube.com/watch?v=szKEPME56y8&feature=youtu.be)
 
 ### About the project
 The idea is to use Neural Networks to find the best Dinosaur by using Natural Selection (Random Mutations).
