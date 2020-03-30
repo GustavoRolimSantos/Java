@@ -17,6 +17,14 @@ The population size used to train was between 1000-2000 dinosaurs.
 
 The learning time was between 30 and 60 minutes.
 
+### Fight the AI 
+**ChromeDino.rar**: Contains 2 jars (Normal game mode and 1x1 mode)
+
+Keyboard Commands:
+- Jump (ARROW UP)
+- Down (ARROW DOWN)
+- Airplane (A)
+
 **For more information watch the [demonstration video](https://www.youtube.com/watch?v=szKEPME56y8&feature=youtu.be).** 
 
 ### Code
