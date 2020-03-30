@@ -4,7 +4,7 @@
 Here are some of my public Java projects.
 
 
-[**GOOGLE DINOSAUR GAME AI**](https://www.youtube.com/watch?v=szKEPME56y8)
+[**GOOGLE DINOSAUR GAME ARTIFICIAL INTELLIGENCE**](https://www.youtube.com/watch?v=szKEPME56y8)
 [![Google Dinosaur Game AI](https://github.com/GustavoRolimSantos/Java/blob/master/Chrome-Dino-Game-AI/trained.gif)](https://www.youtube.com/watch?v=szKEPME56y8&feature=youtu.be)
 
 [**JAVA RESPONSIVE SWING MATERIAL DESIGN FRAMEWORK**](https://www.youtube.com/watch?v=ZijJrgkgyUA)
