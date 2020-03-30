@@ -24,6 +24,7 @@ Keyboard Commands:
 - Jump (ARROW UP)
 - Down (ARROW DOWN)
 - Airplane (A)
+- Reset Game (ENTER)
 
 **For more information watch the [demonstration video](https://www.youtube.com/watch?v=szKEPME56y8&feature=youtu.be).** 
 
