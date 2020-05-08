@@ -13,7 +13,7 @@ The Neural Network was created with 3 layers and Sigmoid as the activation funct
 - Hidden layer with 4 neurons + 1 bias
 - Output layer with 1 neuron (Jump)
 
-The population size used to train was between 1000-2000 dinosaurs.
+The population size used to train was between 1000-2000 birds.
 
 The learning time was between 5 and 10 minutes.
 
