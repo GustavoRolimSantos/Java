@@ -3,6 +3,10 @@
 ### Hey!
 Here are some of my public Java projects.
 
+### FLAPPY BIRD GAME ARTIFICIAL INTELLIGENCE
+- [Watch a demo video](https://www.youtube.com/watch?v=eHvFdgZAawI)  <br/>
+- [Read more](https://github.com/GustavoRolimSantos/Java/edit/master/FlappyBirdAI)  <br/><br/>
+[![Flappy Bird Game AI](https://github.com/GustavoRolimSantos/Java/blob/master/FlappyBirdAI/data/FlappyBird-demo.gif)](https://www.youtube.com/watch?v=eHvFdgZAawI)
 
 ### GOOGLE DINOSAUR GAME ARTIFICIAL INTELLIGENCE
 - [Watch a demo video](https://www.youtube.com/watch?v=szKEPME56y8)  <br/>
